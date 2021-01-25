@@ -6,14 +6,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.0] - 2021-01-24
+## [v2.0.0] - 2021-01-24
+### Added
+
+- file04
+- file05
+- file06
+
+## Changed
+
+- file 03
+
+## [v1.0.0] - 2021-01-24
 ### Added
 
 - file03
 - file02
 - file01
 
-## [0.1.0] - 2021-01-24
+## [v0.1.0] - 2021-01-24
 ### Added
 
 - file00
